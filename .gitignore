@@ -1,0 +1,7 @@
+.sites-local/
+node_modules/
+tmp/
+*.tar.gz
+reference.html
+reference.css
+resume-review.png
